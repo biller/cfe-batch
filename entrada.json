@@ -1,0 +1,30 @@
+{
+  "tipo_comprobante": 111,
+    "fecha_emision": "2017-11-30",
+    "fecha_vencimiento": "2017-12-30",
+    "forma_pago": 1,
+    "sucursal": 4,
+    "moneda": "UYU",
+    "cliente": [
+        {
+          "tipo_documento": 2,
+          "documento": "217832560011",
+          "razon_social": "Bizcocho SRL",
+          "nombre_fantasia": "El Rey Harinoso",
+          "sucursal": {
+              "direccion": "Benito Blanco 6666",
+              "ciudad": "Montevideo",
+              "departamento": "Montevideo",
+              "pais": "UY"
+          }
+        }
+    ],
+    "items": [
+        {
+            "cantidad": 1,
+            "concepto": "Servicio de facturación electrónica",
+            "precio": 3000,
+            "indicador_facturacion": 3
+        }
+    ]
+}
