@@ -14,8 +14,7 @@ composer install
 ```
 ## Uso
 ### Archivo de entrada
-Se hace un archivo de entrada en formato .json en el cual se hace una lista de los clientes a los cuales emitir comprobantes. Archivo de ejemplo: 
-
+Se hace un archivo de entrada en formato .json en el cual se hace una lista de los clientes a los cuales emitir comprobantes. Archivo de ejemplo: https://github.com/biller/cfe-batch/blob/master/entrada.json
 ### Ejecutar programa
 ```
 ./yii hello
